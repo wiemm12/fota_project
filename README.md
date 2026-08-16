@@ -27,4 +27,4 @@ Through this training and project, I learned how a firmware update process works
 
 This project helped me understand that FOTA is not only about downloading a new firmware file. It requires coordination between the **communication layer, bootloader logic, memory management, firmware validation and application startup**.
 
-[View Certificate](udemy-fota-certificate.pdf)
+![Udemy FOTA Certificate](docs/certificates/udemy-fota-certificate.jpg)
