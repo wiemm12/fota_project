@@ -18,15 +18,15 @@
 #endif
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID             "Fixbox-790DC2"
-#define WIFI_PASSWORD         "ZjlhZGE0"
+#define WIFI_SSID             "********"
+#define WIFI_PASSWORD         "********"
 
 /* 2. Define the API Key */
-#define API_KEY               "AIzaSyApO9b80C6vxFvABEDm5wASg3zVPlk6IBU"
+#define API_KEY               "***************"
 
 /* 3. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL            "chebbi.wiemm@gmail.com"
-#define USER_PASSWORD         "PSG12@12!"
+#define USER_EMAIL            "************"
+#define USER_PASSWORD         "****"
 
 /* 4. Define the Firebase storage bucket ID e.g bucket-name.appspot.com */
 #define STORAGE_BUCKET_ID     "fota-62302.appspot.com"
